@@ -35,3 +35,17 @@
 .jumbotron .icono{
     font-size: 50px;
 }
+
+.rosa{
+
+    background-color: deeppink;
+}
+
+.azul{
+    background-color: deepskyblue;
+}
+
+.negro{
+
+    background-color: #000;
+}
